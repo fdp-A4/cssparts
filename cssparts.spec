@@ -1,5 +1,5 @@
 {
-  "name": "RichCSS Parts",
+  "name": "cssparts",
   "authors": "Team A4",
   "email": "richcssa4@gmail.com",
   "description": "CSS used by cssparts.com",
